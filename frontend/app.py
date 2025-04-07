@@ -16,7 +16,7 @@ if st.button("Get Recommendations"):
     if not query_input.strip():
         st.error("Please enter a valid query.")
     else:
-        # Call the backend API
+        # Calling the backend API
         with st.spinner("Fetching recommendations..."):
             try:
                 response = requests.post(API_URL, json={"query": query_input})
