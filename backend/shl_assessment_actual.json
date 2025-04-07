@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Cognitive Ability Test",
+    "url": "https://www.shl.com/product/cognitive-ability-test/",
+    "description": "Measures verbal, numerical, and logical reasoning abilities crucial for problem-solving and decision-making in various roles.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration_minutes": 30,
+    "test_type": "Cognitive"
+  },
+  {
+    "name": "Occupational Personality Questionnaire (OPQ)",
+    "url": "https://www.shl.com/product/occupational-personality-questionnaire-opq/",
+    "description": "Evaluates behavioral style and personality traits to predict job performance and cultural fit within organizations.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration_minutes": 25,
+    "test_type": "Personality"
+  },
+  {
+    "name": "Sales Assessment",
+    "url": "https://www.shl.com/product/sales-assessment/",
+    "description": "Designed to assess sales potential through a combination of cognitive, personality, and situational judgment measures.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "duration_minutes": 40,
+    "test_type": "Sales"
+  },
+  {
+    "name": "Leadership Potential Assessment",
+    "url": "https://www.shl.com/product/leadership-potential-assessment/",
+    "description": "Assesses leadership qualities, decision-making skills, and the ability to influence others, suitable for managerial roles.",
+    "remote_testing": "No",
+    "adaptive_irt": "No",
+    "duration_minutes": 45,
+    "test_type": "Leadership"
+  },
+  {
+    "name": "Behavioral Interview Simulation",
+    "url": "https://www.shl.com/product/behavioral-interview-simulation/",
+    "description": "Simulates real-life interview scenarios to evaluate behavioral competencies and responses under pressure.",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "duration_minutes": 35,
+    "test_type": "Behavioral"
+  }
+]
