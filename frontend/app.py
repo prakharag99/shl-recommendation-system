@@ -2,9 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-# For local testing, use: "http://localhost:8000/recommend"
-#API_URL = "https://your-backend-url/recommend"  # update with your deployed backend URL
-API_URL = "http://127.0.0.1:8000/recommend"
+API_URL = "https://shl-recommendation-system-ftdg.onrender.com/recommend"
 
 st.set_page_config(page_title="SHL Assessment Recommendation System", layout="wide")
 
